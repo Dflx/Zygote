@@ -1,0 +1,7 @@
+Feature Set
+=================================
+-Store essays, nnotes, projects & other written info
+-Keep track of money
+-Hold web interface to Ruppellii
+-Scheduling & alert system
+-(Future) check serverstatus
